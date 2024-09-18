@@ -1,0 +1,3 @@
+class Scaffale{
+    int ripiani;
+}
